@@ -1,0 +1,15 @@
+C:\Users\ChikaBole\source\repos\OOP\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\ChikaBole\source\repos\OOP\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\ChikaBole\source\repos\OOP\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\ChikaBole\source\repos\OOP\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\ChikaBole\source\repos\OOP\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\ChikaBole\source\repos\OOP\Prototype\obj\Debug\net6.0\ref\Prototype.dll
