@@ -1,0 +1,15 @@
+C:\Users\ChikaBole\source\repos\OOP\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\Users\ChikaBole\source\repos\OOP\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\Users\ChikaBole\source\repos\OOP\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Users\ChikaBole\source\repos\OOP\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\Users\ChikaBole\source\repos\OOP\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\Users\ChikaBole\source\repos\OOP\Singleton\obj\Debug\net6.0\ref\Singleton.dll
