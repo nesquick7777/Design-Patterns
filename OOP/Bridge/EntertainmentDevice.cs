@@ -22,10 +22,9 @@ namespace Bridge
         {
             if (deviceState < 0 || deviceState > maxSetting) {
 
-                deviceState = 0;
-
-                Console.WriteLine("On device state: " + deviceState);
+                deviceState = 0; 
             }
+            Console.WriteLine("On device state: " + deviceState);
         }
 
         public void buttonSevenPressed()
