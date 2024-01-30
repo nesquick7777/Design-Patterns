@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Comp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{8A22CEB0-455D-4948-AA78-1EFE19F20080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{1065ED21-3171-49D6-91B8-8DFA7AB9476E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{1065ED21-3171-49D6-91B8-8DFA7AB9476E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{EA004469-5491-40D5-AFA6-87B9E6FEBBDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{EA004469-5491-40D5-AFA6-87B9E6FEBBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{F65B839E-B0A2-48B3-9C81-1DD6C112D402}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{EA004469-5491-40D5-AFA6-87B9E6FEBBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA004469-5491-40D5-AFA6-87B9E6FEBBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA004469-5491-40D5-AFA6-87B9E6FEBBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65B839E-B0A2-48B3-9C81-1DD6C112D402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65B839E-B0A2-48B3-9C81-1DD6C112D402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65B839E-B0A2-48B3-9C81-1DD6C112D402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65B839E-B0A2-48B3-9C81-1DD6C112D402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
