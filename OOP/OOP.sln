@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBuilder", "CarBuilder\CarBuilder.csproj", "{A9FCD8E8-A399-481C-8F6E-8BA52B88C8DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPrototype", "ColorPrototype\ColorPrototype.csproj", "{A6D47FEF-A1E2-4908-A139-8ECE3CAE689E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{A9FCD8E8-A399-481C-8F6E-8BA52B88C8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9FCD8E8-A399-481C-8F6E-8BA52B88C8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9FCD8E8-A399-481C-8F6E-8BA52B88C8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D47FEF-A1E2-4908-A139-8ECE3CAE689E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D47FEF-A1E2-4908-A139-8ECE3CAE689E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D47FEF-A1E2-4908-A139-8ECE3CAE689E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D47FEF-A1E2-4908-A139-8ECE3CAE689E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
