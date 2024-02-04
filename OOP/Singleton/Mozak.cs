@@ -11,7 +11,6 @@ namespace Singleton
         private static Mozak instance;
         private static readonly object padlock = new object();
 
-
         private Mozak() {
             Console.WriteLine("Mozak je kreiran");
         }
@@ -28,7 +27,6 @@ namespace Singleton
             }
             
         }
-
 
         public void LiftLeftArm()
         {
