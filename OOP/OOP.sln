@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarBuilder", "CarBuilder\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorPrototype", "ColorPrototype\ColorPrototype.csproj", "{A6D47FEF-A1E2-4908-A139-8ECE3CAE689E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OralExamFacade", "OralExamFacade\OralExamFacade.csproj", "{CAC0B981-45E4-4F9D-9503-0A6734834E42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OralExamFacade", "OralExamFacade\OralExamFacade.csproj", "{CAC0B981-45E4-4F9D-9503-0A6734834E42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProxy", "ImageProxy\ImageProxy.csproj", "{DEF9035A-8BB8-489C-9822-2209987B2856}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageProxy", "ImageProxy\ImageProxy.csproj", "{DEF9035A-8BB8-489C-9822-2209987B2856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDecorater", "MessageDecorater\MessageDecorater.csproj", "{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{DEF9035A-8BB8-489C-9822-2209987B2856}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEF9035A-8BB8-489C-9822-2209987B2856}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEF9035A-8BB8-489C-9822-2209987B2856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
