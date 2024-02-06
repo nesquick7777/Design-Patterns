@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OralExamFacade", "OralExamF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageProxy", "ImageProxy\ImageProxy.csproj", "{DEF9035A-8BB8-489C-9822-2209987B2856}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDecorater", "MessageDecorater\MessageDecorater.csproj", "{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageDecorater", "MessageDecorater\MessageDecorater.csproj", "{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestMembersComposite", "QuestMembersComposite\QuestMembersComposite.csproj", "{0ED09D8D-E966-4D96-AD56-FE2DECA844B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3849A1E3-1D1D-41C7-89FA-4A56A8ADD8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED09D8D-E966-4D96-AD56-FE2DECA844B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED09D8D-E966-4D96-AD56-FE2DECA844B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED09D8D-E966-4D96-AD56-FE2DECA844B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED09D8D-E966-4D96-AD56-FE2DECA844B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
