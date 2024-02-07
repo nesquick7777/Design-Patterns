@@ -49,9 +49,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadiusPegAdapter", "RadiusP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageSenderBridge", "MessageSenderBridge\MessageSenderBridge.csproj", "{B02FF1D1-ED7E-412D-8AAD-317613F7E347}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareProjectMemento", "SoftwareProjectMemento\SoftwareProjectMemento.csproj", "{D39B0F5D-0564-458D-8549-3C9C70811068}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftwareProjectMemento", "SoftwareProjectMemento\SoftwareProjectMemento.csproj", "{D39B0F5D-0564-458D-8549-3C9C70811068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingStrategy", "SortingStrategy\SortingStrategy.csproj", "{4DA2466F-DDC5-4DF1-AA12-4E4E62CEB287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingStrategy", "SortingStrategy\SortingStrategy.csproj", "{4DA2466F-DDC5-4DF1-AA12-4E4E62CEB287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoObserver", "CryptoObserver\CryptoObserver.csproj", "{6C88AC9E-33D3-4E82-BE43-F0973F6B38E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentVisitor", "DocumentVisitor\DocumentVisitor.csproj", "{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,14 @@ Global
 		{4DA2466F-DDC5-4DF1-AA12-4E4E62CEB287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DA2466F-DDC5-4DF1-AA12-4E4E62CEB287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DA2466F-DDC5-4DF1-AA12-4E4E62CEB287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C88AC9E-33D3-4E82-BE43-F0973F6B38E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C88AC9E-33D3-4E82-BE43-F0973F6B38E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C88AC9E-33D3-4E82-BE43-F0973F6B38E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C88AC9E-33D3-4E82-BE43-F0973F6B38E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
