@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingStrategy", "SortingS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoObserver", "CryptoObserver\CryptoObserver.csproj", "{6C88AC9E-33D3-4E82-BE43-F0973F6B38E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentVisitor", "DocumentVisitor\DocumentVisitor.csproj", "{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentVisitor", "DocumentVisitor\DocumentVisitor.csproj", "{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{427B58CC-506C-44ED-98F3-FDBE1F025AF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427B58CC-506C-44ED-98F3-FDBE1F025AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427B58CC-506C-44ED-98F3-FDBE1F025AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427B58CC-506C-44ED-98F3-FDBE1F025AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427B58CC-506C-44ED-98F3-FDBE1F025AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
