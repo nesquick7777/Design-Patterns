@@ -57,7 +57,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoObserver", "CryptoObs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentVisitor", "DocumentVisitor\DocumentVisitor.csproj", "{8690C5C3-9BC6-4DA0-A38F-FB21CF5AAA15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{427B58CC-506C-44ED-98F3-FDBE1F025AF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{427B58CC-506C-44ED-98F3-FDBE1F025AF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal", "Animal\Animal.csproj", "{6C6D4008-6088-4078-A172-60894978ECDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{6A055AE6-7886-44A3-8A2D-DAD10275DD83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +181,14 @@ Global
 		{427B58CC-506C-44ED-98F3-FDBE1F025AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427B58CC-506C-44ED-98F3-FDBE1F025AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{427B58CC-506C-44ED-98F3-FDBE1F025AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6D4008-6088-4078-A172-60894978ECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6D4008-6088-4078-A172-60894978ECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6D4008-6088-4078-A172-60894978ECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6D4008-6088-4078-A172-60894978ECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A055AE6-7886-44A3-8A2D-DAD10275DD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A055AE6-7886-44A3-8A2D-DAD10275DD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A055AE6-7886-44A3-8A2D-DAD10275DD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A055AE6-7886-44A3-8A2D-DAD10275DD83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
