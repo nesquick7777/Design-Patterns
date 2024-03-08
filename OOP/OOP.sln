@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "Template 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullObject", "Null object\NullObject.csproj", "{E278A5B1-D11B-4DD4-8007-4BE9565B25FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{6BC9D60A-1DB0-4715-915F-31110200BA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Flyweight\Flyweight.csproj", "{6BC9D60A-1DB0-4715-915F-31110200BA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{A5A4AA6E-22F8-46E1-90F6-CAD210F900B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{6BC9D60A-1DB0-4715-915F-31110200BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BC9D60A-1DB0-4715-915F-31110200BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BC9D60A-1DB0-4715-915F-31110200BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A4AA6E-22F8-46E1-90F6-CAD210F900B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A4AA6E-22F8-46E1-90F6-CAD210F900B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A4AA6E-22F8-46E1-90F6-CAD210F900B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A4AA6E-22F8-46E1-90F6-CAD210F900B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
